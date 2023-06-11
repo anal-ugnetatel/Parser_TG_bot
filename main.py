@@ -1,7 +1,7 @@
 import requests
 import random
 import telebot
-q
+
 
 from bs4 import BeautifulSoup as b
 URL = 'https://www.anekdot.ru/author-best/years/?years=anekdot'
